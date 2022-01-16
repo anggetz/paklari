@@ -1,0 +1,7 @@
+[
+    {
+        "cmd": ["git", "pull"],
+        "name": "git",
+        "dir": "F:\\Go-projects\\DSI\\BAG\\backend\\email-svc-bag"
+    }
+]
