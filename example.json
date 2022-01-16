@@ -1,7 +1,12 @@
 [
     {
-        "cmd": ["git", "pull"],
-        "name": "git",
-        "dir": "F:\\Go-projects\\DSI\\BAG\\backend\\email-svc-bag"
+        "cmd": ["mvn", "spring-boot:run"],
+        "name": "manage-config",
+        "dir": "F:\\Java-Projects\\KSEI\\KYC\\kyc-be\\kyc-manage\\manage-config"
+    },
+    {
+        "cmd": ["mvn", "spring-boot:run"],
+        "name": "manage-discovery",
+        "dir": "F:\\Java-Projects\\KSEI\\KYC\\kyc-be\\kyc-manage\\manage-discovery"
     }
 ]
